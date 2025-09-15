@@ -46,6 +46,7 @@ public class BillScan {
                 " \nTotal amount = " + total +
                         " \nFinal amount = " + finalAmount);
 
+        System.out.println(" this is for third commit");
         sc.close();
 
 
